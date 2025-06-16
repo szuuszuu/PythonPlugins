@@ -23,7 +23,8 @@
 
 ---
 
-## 📂 Folder Structure (Expected)
+## 📁 Folder Structure (Expected)
+
 your_project/
 ├── JobCleaner/
 │ └── JOBS_FOLDER/
