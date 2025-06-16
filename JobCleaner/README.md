@@ -23,12 +23,12 @@
 
 ---
 
-<pre> ## 📁 Folder Structure (Expected) ``` your_project/ ├── JobCleaner/ │ └── JOBS_FOLDER/ │ ├── MAIN.JBI │ ├── SUB1.JBI │ └── unused_job.JBI ├── job_cleaner.py ``` - Replace `JOBS_FOLDER` with the folder you're using (e.g. `BACKUP1`) - Place all `.JBI` job files inside `JobCleaner/JOBS_FOLDER/` before running the script </pre>
+<pre> ## 📁 Folder Structure (Expected) ``` your_project/ ├── JobCleaner/ │ └── JOBS_FOLDER/ │ ├── MAIN.JBI │ ├── SUB1.JBI │ └── unused_job.JBI ├── job_cleaner.py ``` </pre>
 
 ## ▶️ How to Use
 
 1. **Run the script:**
-   ```bash
+   bash
    python job_cleaner.py
 
 2. **When prompted:**
