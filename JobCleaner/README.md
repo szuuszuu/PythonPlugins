@@ -39,7 +39,7 @@ your_project/
 ## ▶️ How to Use
 
 1. **Run the script:**
-   bash
+   ```bash
    python job_cleaner.py
 
 2. **When prompted:**
