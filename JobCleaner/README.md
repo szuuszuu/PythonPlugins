@@ -27,12 +27,12 @@
 ## 📁 Folder Structure (Expected)
 
 your_project/
-├── JobCleaner/
-│ └── JOBS_FOLDER/
-│ ├── MAIN.JBI
-│ ├── SUB1.JBI
-│ └── unused_job.JBI
-├── job_cleaner.py
+- JobCleaner/
+    - JOBS_FOLDER/
+    - MAIN.JBI
+    - SUB1.JBI
+    - unused_job.JBI
+- job_cleaner.py
 
 ---
 
