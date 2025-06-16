@@ -1,0 +1,22 @@
+/JOB
+//NAME LTCHGGP
+//POS
+///NPOS 0,0,0,0,0,0
+//INST
+///DATE 2019/11/21 19:00
+///ATTR SC,RW,MC
+///GROUP1 RB1,BS1
+///LVARS 1,0,0,0,0,0,0,0
+NOP
+'**************************
+'** Chang of GAP File    **
+'**      MACRO JOB       **
+'**for Std. Laser-Tracker**
+'**************************
+'=== initialize ===
+'--- GAP File No -----------
+GETARG LB000 IARG#(1)
+' 
+SKILLSND ATTR=3 "LTRACKCH GF:0"
+' 
+END

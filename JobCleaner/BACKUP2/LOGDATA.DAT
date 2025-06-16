@@ -1,0 +1,4910 @@
+//LOGDATA
+///INDEX 1
+DATE              :2025/06/09 09:57:51
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X4
+LINE              :0000
+
+///INDEX 2
+DATE              :2025/06/09 09:57:47
+EVENT             :SELECT JOB
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X4
+
+///INDEX 3
+DATE              :2025/06/09 09:31:50
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 4
+DATE              :2025/06/09 09:30:51
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X4
+LINE              :0206
+STOP FACTOR       :PAUSE COMM
+
+///INDEX 5
+DATE              :2025/06/09 09:10:12
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS7(1)_V2
+LINE              :0246
+
+///INDEX 6
+DATE              :2025/06/09 09:10:10
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 7
+DATE              :2025/06/09 09:10:09
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS7(1)_V2
+LINE              :0246
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 8
+DATE              :2025/06/09 09:10:09
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS7(1)_V2
+LINE              :0244
+
+///INDEX 9
+DATE              :2025/06/09 09:10:07
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 10
+DATE              :2025/06/09 09:10:06
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 11
+DATE              :2025/06/09 09:10:06
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 12
+DATE              :2025/06/09 09:04:50
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS7(1)_V2
+LINE              :0244
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 13
+DATE              :2025/06/09 09:04:15
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS7(1)_V2
+LINE              :0233
+
+///INDEX 14
+DATE              :2025/06/09 09:04:13
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 15
+DATE              :2025/06/09 09:04:04
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS7(1)_V2
+LINE              :0233
+STOP FACTOR       :OTHER FACTOR
+
+///INDEX 16
+DATE              :2025/06/09 09:03:39
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS7(1)_V2
+LINE              :0231
+
+///INDEX 17
+DATE              :2025/06/09 09:03:37
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS7(1)_V2
+LINE              :0231
+STOP FACTOR       :KEY OFF
+
+///INDEX 18
+DATE              :2025/06/09 09:03:33
+EVENT             :NEXT
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS7(1)_V2
+LINE              :0231
+
+///INDEX 19
+DATE              :2025/06/09 09:03:06
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 20
+DATE              :2025/06/09 09:03:06
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 21
+DATE              :2025/06/09 09:02:56
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 22
+DATE              :2025/06/09 09:00:49
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS7(1)_V2
+LINE              :0231
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :MAIN CPU ALARM
+DETAIL FACTOR 2   :RDY0 OFF
+
+///INDEX 23
+DATE              :2025/06/09 08:38:05
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O55B(90,0)KMOK
+LINE              :0583
+
+///INDEX 24
+DATE              :2025/06/09 08:38:03
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 25
+DATE              :2025/06/09 08:38:02
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O55B(90,0)KMOK
+LINE              :0583
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 26
+DATE              :2025/06/09 08:38:01
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O55B(90,0)KMOK
+LINE              :0582
+
+///INDEX 27
+DATE              :2025/06/09 08:37:59
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 28
+DATE              :2025/06/09 08:37:59
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 29
+DATE              :2025/06/09 08:37:59
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 30
+DATE              :2025/06/09 08:35:08
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O55B(90,0)KMOK
+LINE              :0582
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 31
+DATE              :2025/06/09 08:25:18
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O55A(90,180)KMOK
+LINE              :0384
+
+///INDEX 32
+DATE              :2025/06/09 08:25:16
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 33
+DATE              :2025/06/09 08:25:15
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O55A(90,180)KMOK
+LINE              :0384
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 34
+DATE              :2025/06/09 08:25:14
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O55A(90,180)KMOK
+LINE              :0383
+
+///INDEX 35
+DATE              :2025/06/09 08:25:11
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 36
+DATE              :2025/06/09 08:25:11
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 37
+DATE              :2025/06/09 08:25:11
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 38
+DATE              :2025/06/09 08:24:56
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O55A(90,180)KMOK
+LINE              :0383
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 39
+DATE              :2025/06/09 08:09:24
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O49(180,90)AWOK
+LINE              :0200
+
+///INDEX 40
+DATE              :2025/06/09 08:09:22
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 41
+DATE              :2025/06/09 08:09:13
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O49(180,90)AWOK
+LINE              :0200
+STOP FACTOR       :HOLD
+
+///INDEX 42
+DATE              :2025/06/09 08:09:12
+EVENT             :NEXT
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O49(180,90)AWOK
+LINE              :0200
+
+///INDEX 43
+DATE              :2025/06/09 08:08:57
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 44
+DATE              :2025/06/09 08:08:57
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 45
+DATE              :2025/06/09 08:08:55
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 46
+DATE              :2025/06/09 08:08:55
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O49(180,90)AWOK
+LINE              :0202
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 47
+DATE              :2025/06/09 08:08:52
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O49(180,90)AWOK
+LINE              :0202
+
+///INDEX 48
+DATE              :2025/06/09 08:08:50
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 49
+DATE              :2025/06/09 08:08:49
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O49(180,90)AWOK
+LINE              :0202
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 50
+DATE              :2025/06/09 08:08:48
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O49(180,90)AWOK
+LINE              :0201
+
+///INDEX 51
+DATE              :2025/06/09 08:08:47
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 52
+DATE              :2025/06/09 08:08:47
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 53
+DATE              :2025/06/09 08:08:46
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 54
+DATE              :2025/06/09 08:07:40
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O49(180,90)AWOK
+LINE              :0201
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 55
+DATE              :2025/06/09 08:07:10
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O49(180,90)AWOK
+LINE              :0192
+
+///INDEX 56
+DATE              :2025/06/09 08:07:07
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 57
+DATE              :2025/06/09 08:07:07
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O49(180,90)AWOK
+LINE              :0192
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 58
+DATE              :2025/06/09 08:07:06
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O49(180,90)AWOK
+LINE              :0191
+
+///INDEX 59
+DATE              :2025/06/09 08:07:04
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 60
+DATE              :2025/06/09 08:07:04
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 61
+DATE              :2025/06/09 08:07:04
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 62
+DATE              :2025/06/09 08:05:56
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O49(180,90)AWOK
+LINE              :0191
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 63
+DATE              :2025/06/09 07:15:19
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X4
+LINE              :0127
+
+///INDEX 64
+DATE              :2025/06/09 07:13:09
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 65
+DATE              :2025/06/09 06:45:46
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X4
+LINE              :0127
+STOP FACTOR       :PAUSE COMM
+
+///INDEX 66
+DATE              :2025/06/09 06:25:41
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS4(-224_-90)
+LINE              :0293
+
+///INDEX 67
+DATE              :2025/06/09 06:25:39
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 68
+DATE              :2025/06/09 06:25:38
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS4(-224_-90)
+LINE              :0293
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 69
+DATE              :2025/06/09 06:25:37
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS4(-224_-90)
+LINE              :0291
+
+///INDEX 70
+DATE              :2025/06/09 06:25:35
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 71
+DATE              :2025/06/09 06:25:35
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 72
+DATE              :2025/06/09 06:25:35
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 73
+DATE              :2025/06/09 06:17:12
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS4(-224_-90)
+LINE              :0291
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 74
+DATE              :2025/06/09 05:55:43
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :CLEAN-R1_KM_3P
+LINE              :0007
+
+///INDEX 75
+DATE              :2025/06/09 05:55:29
+EVENT             :LOGIN
+LOGIN NAME        :melika
+
+///INDEX 76
+DATE              :2025/06/09 05:54:34
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17095
+AFTER EDIT        :17097
+
+///INDEX 77
+DATE              :2025/06/09 05:54:34
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17095
+AFTER EDIT        :17097
+
+///INDEX 78
+DATE              :2025/06/09 05:54:34
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17095
+AFTER EDIT        :17097
+
+///INDEX 79
+DATE              :2025/06/09 05:54:34
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17095
+AFTER EDIT        :17097
+
+///INDEX 80
+DATE              :2025/06/09 05:54:34
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17095
+AFTER EDIT        :17097
+
+///INDEX 81
+DATE              :2025/06/09 05:54:34
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17095
+AFTER EDIT        :17097
+
+///INDEX 82
+DATE              :2025/06/09 05:54:34
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17095
+AFTER EDIT        :17097
+
+///INDEX 83
+DATE              :2025/06/09 05:54:34
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17095
+AFTER EDIT        :17097
+
+///INDEX 84
+DATE              :2025/06/09 05:54:33
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 85
+DATE              :2025/06/09 05:54:33
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#09
+JOB NAME          :SYS-ACK
+LINE              :0000
+
+///INDEX 86
+DATE              :2025/06/09 05:54:33
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#08
+JOB NAME          :SYSTEM
+LINE              :0000
+
+///INDEX 87
+DATE              :2025/06/09 05:54:33
+EVENT             :POWER ON
+LOGIN NAME        :melika
+
+///INDEX 88
+DATE              :2025/06/07 13:45:04
+EVENT             :POWER OFF
+LOGIN NAME        :melika
+
+///INDEX 89
+DATE              :2025/06/07 13:45:04
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#08
+JOB NAME          :SYSTEM
+LINE              :0015
+STOP FACTOR       :POWER OFF
+
+///INDEX 90
+DATE              :2025/06/07 13:44:21
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :CLEAN-R1_KM_3P
+LINE              :0007
+STOP FACTOR       :HOLD
+DETAIL FACTOR 1   :PP HOLD
+
+///INDEX 91
+DATE              :2025/06/07 13:20:08
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS1(-160_-90)07
+LINE              :0422
+
+///INDEX 92
+DATE              :2025/06/07 13:19:54
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 93
+DATE              :2025/06/07 13:19:38
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS1(-160_-90)07
+LINE              :0422
+STOP FACTOR       :HOLD
+DETAIL FACTOR 1   :PP HOLD
+
+///INDEX 94
+DATE              :2025/06/07 13:16:43
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS1(-160_-90)07
+LINE              :0344
+
+///INDEX 95
+DATE              :2025/06/07 13:16:19
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 96
+DATE              :2025/06/07 13:16:18
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS1(-160_-90)07
+LINE              :0344
+STOP FACTOR       :HOLD
+
+///INDEX 97
+DATE              :2025/06/07 12:17:02
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O8A-O21A(90,0)OKKR
+LINE              :0750
+
+///INDEX 98
+DATE              :2025/06/07 12:16:46
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 99
+DATE              :2025/06/07 12:16:44
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O8A-O21A(90,0)OKKR
+LINE              :0750
+STOP FACTOR       :HOLD
+
+///INDEX 100
+DATE              :2025/06/07 11:54:39
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O242(-90,180)OKKR
+LINE              :0097
+
+///INDEX 101
+DATE              :2025/06/07 11:54:19
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 102
+DATE              :2025/06/07 11:54:14
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O242(-90,180)OKKR
+LINE              :0097
+STOP FACTOR       :HOLD
+DETAIL FACTOR 1   :PP HOLD
+
+///INDEX 103
+DATE              :2025/06/07 11:54:13
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O242(-90,180)OKKR
+LINE              :0097
+
+///INDEX 104
+DATE              :2025/06/07 11:54:11
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 105
+DATE              :2025/06/07 11:54:08
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 106
+DATE              :2025/06/07 11:54:08
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 107
+DATE              :2025/06/07 11:54:08
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 108
+DATE              :2025/06/07 11:54:04
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O242(-90,180)OKKR
+LINE              :0097
+STOP FACTOR       :HOLD
+DETAIL FACTOR 1   :PP HOLD
+
+///INDEX 109
+DATE              :2025/06/07 11:54:02
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O242(-90,180)OKKR
+LINE              :0097
+
+///INDEX 110
+DATE              :2025/06/07 11:54:00
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 111
+DATE              :2025/06/07 11:53:59
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O242(-90,180)OKKR
+LINE              :0097
+STOP FACTOR       :KEY OFF
+
+///INDEX 112
+DATE              :2025/06/07 11:53:59
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O242(-90,180)OKKR
+LINE              :0095
+
+///INDEX 113
+DATE              :2025/06/07 11:53:56
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 114
+DATE              :2025/06/07 11:53:56
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 115
+DATE              :2025/06/07 11:53:56
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 116
+DATE              :2025/06/07 11:53:15
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O242(-90,180)OKKR
+LINE              :0095
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 117
+DATE              :2025/06/07 11:39:46
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X4
+LINE              :0000
+
+///INDEX 118
+DATE              :2025/06/07 11:39:29
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 119
+DATE              :2025/06/07 11:38:53
+EVENT             :SELECT JOB
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X4
+
+///INDEX 120
+DATE              :2025/06/07 11:19:29
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 121
+DATE              :2025/06/07 11:18:37
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X2_5441372010_REV_O
+LINE              :0285
+STOP FACTOR       :PAUSE COMM
+
+///INDEX 122
+DATE              :2025/06/07 11:06:25
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_103(30,90)_V2
+LINE              :0447
+
+///INDEX 123
+DATE              :2025/06/07 11:06:23
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 124
+DATE              :2025/06/07 11:06:22
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_103(30,90)_V2
+LINE              :0447
+STOP FACTOR       :KEY OFF
+
+///INDEX 125
+DATE              :2025/06/07 11:06:21
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_103(30,90)_V2
+LINE              :0445
+
+///INDEX 126
+DATE              :2025/06/07 11:06:18
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 127
+DATE              :2025/06/07 11:06:18
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 128
+DATE              :2025/06/07 11:06:18
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 129
+DATE              :2025/06/07 11:01:33
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_103(30,90)_V2
+LINE              :0445
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 130
+DATE              :2025/06/07 11:00:35
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_103(30,90)_V2
+LINE              :0434
+
+///INDEX 131
+DATE              :2025/06/07 11:00:33
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 132
+DATE              :2025/06/07 11:00:32
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_103(30,90)_V2
+LINE              :0434
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 133
+DATE              :2025/06/07 11:00:32
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_103(30,90)_V2
+LINE              :0432
+
+///INDEX 134
+DATE              :2025/06/07 11:00:30
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 135
+DATE              :2025/06/07 11:00:30
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 136
+DATE              :2025/06/07 11:00:30
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 137
+DATE              :2025/06/07 10:58:34
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_103(30,90)_V2
+LINE              :0432
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 138
+DATE              :2025/06/07 10:53:43
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :CLEAN-R1_KM_3P
+LINE              :0007
+
+///INDEX 139
+DATE              :2025/06/07 10:53:41
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 140
+DATE              :2025/06/07 10:53:39
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :CLEAN-R1_KM_3P
+LINE              :0007
+STOP FACTOR       :KEY OFF
+
+///INDEX 141
+DATE              :2025/06/07 10:53:33
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :CLEAN-R1_KM_3P
+LINE              :0000
+
+///INDEX 142
+DATE              :2025/06/07 10:53:31
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 143
+DATE              :2025/06/07 10:53:31
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 144
+DATE              :2025/06/07 10:53:31
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 145
+DATE              :2025/06/07 10:53:29
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 146
+DATE              :2025/06/07 10:53:24
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 147
+DATE              :2025/06/07 10:53:24
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 148
+DATE              :2025/06/07 10:53:24
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 149
+DATE              :2025/06/07 10:53:18
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :CLEAN-R1_KM_3P
+LINE              :0120
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 150
+DATE              :2025/06/07 10:53:02
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :CLEAN-R1_KM_3P
+LINE              :0063
+
+///INDEX 151
+DATE              :2025/06/07 10:52:59
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 152
+DATE              :2025/06/07 10:52:58
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :CLEAN-R1_KM_3P
+LINE              :0063
+STOP FACTOR       :KEY OFF
+
+///INDEX 153
+DATE              :2025/06/07 10:52:52
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :CLEAN-R1_KM_3P
+LINE              :0054
+
+///INDEX 154
+DATE              :2025/06/07 10:52:48
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :CLEAN-R1_KM_3P
+LINE              :0054
+STOP FACTOR       :HOLD
+
+///INDEX 155
+DATE              :2025/06/07 10:52:48
+EVENT             :NEXT
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :CLEAN-R1_KM_3P
+LINE              :0054
+
+///INDEX 156
+DATE              :2025/06/07 10:52:41
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 157
+DATE              :2025/06/07 10:52:41
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 158
+DATE              :2025/06/07 10:52:41
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 159
+DATE              :2025/06/07 10:52:37
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 160
+DATE              :2025/06/07 10:52:22
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 161
+DATE              :2025/06/07 10:52:22
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 162
+DATE              :2025/06/07 10:48:35
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 163
+DATE              :2025/06/07 10:48:34
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :CLEAN-R1_KM_3P
+LINE              :0053
+STOP FACTOR       :HOLD
+DETAIL FACTOR 1   :PP HOLD
+
+///INDEX 164
+DATE              :2025/06/07 10:31:19
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_55B(90,0)
+LINE              :0285
+
+///INDEX 165
+DATE              :2025/06/07 10:31:17
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_55B(90,0)
+LINE              :0285
+STOP FACTOR       :HOLD
+DETAIL FACTOR 1   :PP HOLD
+
+///INDEX 166
+DATE              :2025/06/07 10:31:16
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_55B(90,0)
+LINE              :0280
+
+///INDEX 167
+DATE              :2025/06/07 10:31:15
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_55B(90,0)
+LINE              :0280
+STOP FACTOR       :HOLD
+
+///INDEX 168
+DATE              :2025/06/07 10:20:20
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_34-37(-90,0)
+LINE              :0626
+
+///INDEX 169
+DATE              :2025/06/07 10:20:18
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 170
+DATE              :2025/06/07 10:20:16
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_34-37(-90,0)
+LINE              :0626
+STOP FACTOR       :KEY OFF
+
+///INDEX 171
+DATE              :2025/06/07 10:20:15
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_34-37(-90,0)
+LINE              :0625
+
+///INDEX 172
+DATE              :2025/06/07 10:20:13
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 173
+DATE              :2025/06/07 10:20:13
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 174
+DATE              :2025/06/07 10:20:13
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 175
+DATE              :2025/06/07 10:07:08
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_34-37(-90,0)
+LINE              :0625
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 176
+DATE              :2025/06/07 09:31:08
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :SEARCH-R1-S13D
+LINE              :0012
+
+///INDEX 177
+DATE              :2025/06/07 09:30:58
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 178
+DATE              :2025/06/07 09:30:58
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :SEARCH-R1-S13D
+LINE              :0012
+STOP FACTOR       :HOLD
+
+///INDEX 179
+DATE              :2025/06/07 09:27:11
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_29-32(-90,180)
+LINE              :0542
+
+///INDEX 180
+DATE              :2025/06/07 09:27:09
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 181
+DATE              :2025/06/07 09:27:08
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_29-32(-90,180)
+LINE              :0542
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 182
+DATE              :2025/06/07 09:27:07
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_29-32(-90,180)
+LINE              :0541
+
+///INDEX 183
+DATE              :2025/06/07 09:27:04
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 184
+DATE              :2025/06/07 09:27:04
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 185
+DATE              :2025/06/07 09:27:04
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 186
+DATE              :2025/06/07 09:27:01
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 187
+DATE              :2025/06/07 09:26:49
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 188
+DATE              :2025/06/07 09:26:48
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 189
+DATE              :2025/06/07 09:26:48
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 190
+DATE              :2025/06/07 09:25:42
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_29-32(-90,180)
+LINE              :0541
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 191
+DATE              :2025/06/07 08:41:26
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X2_5441372010_REV_O
+LINE              :0156
+
+///INDEX 192
+DATE              :2025/06/07 08:40:26
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 193
+DATE              :2025/06/07 08:27:41
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X2_5441372010_REV_O
+LINE              :0156
+STOP FACTOR       :PAUSE COMM
+
+///INDEX 194
+DATE              :2025/06/07 06:57:38
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_24A(90,180)
+LINE              :0150
+
+///INDEX 195
+DATE              :2025/06/07 06:57:36
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 196
+DATE              :2025/06/07 06:57:36
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_24A(90,180)
+LINE              :0150
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 197
+DATE              :2025/06/07 06:57:35
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_24A(90,180)
+LINE              :0148
+
+///INDEX 198
+DATE              :2025/06/07 06:57:31
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 199
+DATE              :2025/06/07 06:57:31
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 200
+DATE              :2025/06/07 06:57:31
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 201
+DATE              :2025/06/07 06:54:00
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_24A(90,180)
+LINE              :0148
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 202
+DATE              :2025/06/07 06:20:48
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8B-21B(90,180)_REV_O
+LINE              :0525
+
+///INDEX 203
+DATE              :2025/06/07 06:18:20
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8B-21B(90,180)_REV_O
+LINE              :0525
+STOP FACTOR       :PAUSE COMM
+
+///INDEX 204
+DATE              :2025/06/07 06:08:05
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1731
+
+///INDEX 205
+DATE              :2025/06/07 06:08:03
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 206
+DATE              :2025/06/07 06:08:01
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1731
+STOP FACTOR       :DONE
+
+///INDEX 207
+DATE              :2025/06/07 06:07:58
+EVENT             :NEXT
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1731
+
+///INDEX 208
+DATE              :2025/06/07 06:07:51
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 209
+DATE              :2025/06/07 06:07:51
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 210
+DATE              :2025/06/07 06:07:51
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 211
+DATE              :2025/06/07 06:07:12
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1730
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 212
+DATE              :2025/06/07 06:02:14
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1505
+
+///INDEX 213
+DATE              :2025/06/07 06:02:01
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 214
+DATE              :2025/06/07 06:02:00
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1505
+STOP FACTOR       :HOLD
+DETAIL FACTOR 1   :PP HOLD
+
+///INDEX 215
+DATE              :2025/06/07 06:01:01
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1459
+
+///INDEX 216
+DATE              :2025/06/07 06:00:10
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 217
+DATE              :2025/06/07 06:00:08
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1459
+STOP FACTOR       :HOLD
+DETAIL FACTOR 1   :PP HOLD
+
+///INDEX 218
+DATE              :2025/06/07 06:00:07
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1459
+
+///INDEX 219
+DATE              :2025/06/07 06:00:05
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 220
+DATE              :2025/06/07 06:00:02
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 221
+DATE              :2025/06/07 06:00:02
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 222
+DATE              :2025/06/07 06:00:02
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 223
+DATE              :2025/06/07 05:59:58
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1459
+STOP FACTOR       :HOLD
+DETAIL FACTOR 1   :PP HOLD
+
+///INDEX 224
+DATE              :2025/06/07 05:59:55
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1459
+
+///INDEX 225
+DATE              :2025/06/07 05:59:53
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 226
+DATE              :2025/06/07 05:59:49
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 227
+DATE              :2025/06/07 05:59:49
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 228
+DATE              :2025/06/07 05:59:49
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 229
+DATE              :2025/06/07 05:59:44
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1459
+STOP FACTOR       :HOLD
+DETAIL FACTOR 1   :PP HOLD
+
+///INDEX 230
+DATE              :2025/06/07 05:59:43
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1459
+
+///INDEX 231
+DATE              :2025/06/07 05:59:41
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 232
+DATE              :2025/06/07 05:59:38
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1459
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 233
+DATE              :2025/06/07 05:59:37
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1458
+
+///INDEX 234
+DATE              :2025/06/07 05:59:34
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 235
+DATE              :2025/06/07 05:59:34
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 236
+DATE              :2025/06/07 05:59:34
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 237
+DATE              :2025/06/07 05:53:47
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1458
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 238
+DATE              :2025/06/07 05:52:12
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1323
+
+///INDEX 239
+DATE              :2025/06/07 05:21:50
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 240
+DATE              :2025/06/07 05:21:45
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1323
+STOP FACTOR       :DONE
+
+///INDEX 241
+DATE              :2025/06/07 05:21:45
+EVENT             :NEXT
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1323
+
+///INDEX 242
+DATE              :2025/06/07 05:21:45
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1323
+STOP FACTOR       :KEY OFF
+
+///INDEX 243
+DATE              :2025/06/07 05:21:44
+EVENT             :NEXT
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1323
+
+///INDEX 244
+DATE              :2025/06/07 05:21:42
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1323
+STOP FACTOR       :KEY OFF
+
+///INDEX 245
+DATE              :2025/06/07 05:21:41
+EVENT             :NEXT
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1323
+
+///INDEX 246
+DATE              :2025/06/07 05:21:40
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1323
+STOP FACTOR       :DONE
+
+///INDEX 247
+DATE              :2025/06/07 05:21:40
+EVENT             :NEXT
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1323
+
+///INDEX 248
+DATE              :2025/06/07 05:21:33
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 249
+DATE              :2025/06/07 05:21:33
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 250
+DATE              :2025/06/07 05:21:33
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 251
+DATE              :2025/06/07 05:21:28
+EVENT             :LOGIN
+LOGIN NAME        :melika
+
+///INDEX 252
+DATE              :2025/06/07 05:19:38
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17094
+AFTER EDIT        :17095
+
+///INDEX 253
+DATE              :2025/06/07 05:19:38
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17094
+AFTER EDIT        :17095
+
+///INDEX 254
+DATE              :2025/06/07 05:19:38
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17094
+AFTER EDIT        :17095
+
+///INDEX 255
+DATE              :2025/06/07 05:19:38
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17094
+AFTER EDIT        :17095
+
+///INDEX 256
+DATE              :2025/06/07 05:19:38
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17094
+AFTER EDIT        :17095
+
+///INDEX 257
+DATE              :2025/06/07 05:19:38
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17094
+AFTER EDIT        :17095
+
+///INDEX 258
+DATE              :2025/06/07 05:19:38
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17094
+AFTER EDIT        :17095
+
+///INDEX 259
+DATE              :2025/06/07 05:19:38
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17094
+AFTER EDIT        :17095
+
+///INDEX 260
+DATE              :2025/06/07 05:19:37
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 261
+DATE              :2025/06/07 05:19:37
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#09
+JOB NAME          :SYS-ACK
+LINE              :0000
+
+///INDEX 262
+DATE              :2025/06/07 05:19:37
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#08
+JOB NAME          :SYSTEM
+LINE              :0000
+
+///INDEX 263
+DATE              :2025/06/07 05:19:37
+EVENT             :POWER ON
+LOGIN NAME        :melika
+
+///INDEX 264
+DATE              :2025/06/06 22:13:23
+EVENT             :POWER OFF
+LOGIN NAME        :melika
+
+///INDEX 265
+DATE              :2025/06/06 22:13:23
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#08
+JOB NAME          :SYSTEM
+LINE              :0015
+STOP FACTOR       :POWER OFF
+
+///INDEX 266
+DATE              :2025/06/06 22:13:22
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 267
+DATE              :2025/06/06 22:13:08
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1323
+STOP FACTOR       :HOLD
+
+///INDEX 268
+DATE              :2025/06/06 22:06:31
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1029
+
+///INDEX 269
+DATE              :2025/06/06 22:06:29
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 270
+DATE              :2025/06/06 22:06:28
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1029
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 271
+DATE              :2025/06/06 22:06:27
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1028
+
+///INDEX 272
+DATE              :2025/06/06 22:06:26
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 273
+DATE              :2025/06/06 22:06:26
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 274
+DATE              :2025/06/06 22:06:26
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 275
+DATE              :2025/06/06 22:04:49
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :1028
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 276
+DATE              :2025/06/06 22:04:04
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :0970
+
+///INDEX 277
+DATE              :2025/06/06 22:04:02
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 278
+DATE              :2025/06/06 22:04:02
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :0970
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 279
+DATE              :2025/06/06 22:04:01
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :0969
+
+///INDEX 280
+DATE              :2025/06/06 22:04:00
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 281
+DATE              :2025/06/06 22:04:00
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 282
+DATE              :2025/06/06 22:04:00
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 283
+DATE              :2025/06/06 22:01:52
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :X2_8A-21A(90,0)_REV_O
+LINE              :0969
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 284
+DATE              :2025/06/06 21:29:12
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X2_5441372010_REV_O
+LINE              :0000
+
+///INDEX 285
+DATE              :2025/06/06 21:29:09
+EVENT             :SELECT JOB
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X2_5441372010_REV_O
+
+///INDEX 286
+DATE              :2025/06/06 21:08:59
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 287
+DATE              :2025/06/06 21:08:03
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X4
+LINE              :0206
+STOP FACTOR       :PAUSE COMM
+
+///INDEX 288
+DATE              :2025/06/06 19:58:33
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O49(180,90)AWOK
+LINE              :0202
+
+///INDEX 289
+DATE              :2025/06/06 19:58:31
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 290
+DATE              :2025/06/06 19:58:30
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O49(180,90)AWOK
+LINE              :0202
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 291
+DATE              :2025/06/06 19:58:29
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O49(180,90)AWOK
+LINE              :0201
+
+///INDEX 292
+DATE              :2025/06/06 19:58:28
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 293
+DATE              :2025/06/06 19:58:28
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 294
+DATE              :2025/06/06 19:58:28
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 295
+DATE              :2025/06/06 19:53:17
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O49(180,90)AWOK
+LINE              :0201
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 296
+DATE              :2025/06/06 19:08:02
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS6(-12_90)
+LINE              :0187
+
+///INDEX 297
+DATE              :2025/06/06 19:07:59
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 298
+DATE              :2025/06/06 19:07:38
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS6(-12_90)
+LINE              :0187
+STOP FACTOR       :DONE
+
+///INDEX 299
+DATE              :2025/06/06 19:07:32
+EVENT             :NEXT
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS6(-12_90)
+LINE              :0187
+
+///INDEX 300
+DATE              :2025/06/06 19:07:31
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS6(-12_90)
+LINE              :0187
+STOP FACTOR       :KEY OFF
+
+///INDEX 301
+DATE              :2025/06/06 19:07:30
+EVENT             :NEXT
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS6(-12_90)
+LINE              :0187
+
+///INDEX 302
+DATE              :2025/06/06 19:07:29
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS6(-12_90)
+LINE              :0187
+STOP FACTOR       :KEY OFF
+
+///INDEX 303
+DATE              :2025/06/06 19:07:25
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS6(-12_90)
+LINE              :0183
+
+///INDEX 304
+DATE              :2025/06/06 19:07:06
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 305
+DATE              :2025/06/06 19:07:06
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 306
+DATE              :2025/06/06 19:06:42
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 307
+DATE              :2025/06/06 19:04:02
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS6(-12_90)
+LINE              :0182
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :MAIN CPU ALARM
+DETAIL FACTOR 2   :RDY0 OFF
+
+///INDEX 308
+DATE              :2025/06/06 18:58:16
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X4
+LINE              :0127
+
+///INDEX 309
+DATE              :2025/06/06 18:38:07
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 310
+DATE              :2025/06/06 18:37:33
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X4
+LINE              :0127
+STOP FACTOR       :PAUSE COMM
+
+///INDEX 311
+DATE              :2025/06/06 18:17:28
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS4(-224_-90)
+LINE              :0293
+
+///INDEX 312
+DATE              :2025/06/06 18:17:25
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 313
+DATE              :2025/06/06 18:17:24
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS4(-224_-90)
+LINE              :0293
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 314
+DATE              :2025/06/06 18:17:24
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS4(-224_-90)
+LINE              :0291
+
+///INDEX 315
+DATE              :2025/06/06 18:17:22
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 316
+DATE              :2025/06/06 18:17:22
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 317
+DATE              :2025/06/06 18:17:22
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 318
+DATE              :2025/06/06 18:16:51
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS4(-224_-90)
+LINE              :0291
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 319
+DATE              :2025/06/06 18:08:59
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS3(-160_-90)54
+LINE              :0382
+
+///INDEX 320
+DATE              :2025/06/06 18:08:57
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 321
+DATE              :2025/06/06 18:08:55
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS3(-160_-90)54
+LINE              :0382
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 322
+DATE              :2025/06/06 18:08:55
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS3(-160_-90)54
+LINE              :0381
+
+///INDEX 323
+DATE              :2025/06/06 18:08:52
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 324
+DATE              :2025/06/06 18:08:52
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 325
+DATE              :2025/06/06 18:08:52
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 326
+DATE              :2025/06/06 18:07:56
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS3(-160_-90)54
+LINE              :0381
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 327
+DATE              :2025/06/06 17:26:02
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS1(-160_-90)07
+LINE              :0279
+
+///INDEX 328
+DATE              :2025/06/06 17:26:00
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 329
+DATE              :2025/06/06 17:26:00
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS1(-160_-90)07
+LINE              :0279
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 330
+DATE              :2025/06/06 17:25:59
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS1(-160_-90)07
+LINE              :0278
+
+///INDEX 331
+DATE              :2025/06/06 17:25:57
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 332
+DATE              :2025/06/06 17:25:57
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 333
+DATE              :2025/06/06 17:25:57
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 334
+DATE              :2025/06/06 17:25:36
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS1(-160_-90)07
+LINE              :0278
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 335
+DATE              :2025/06/06 17:10:17
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O24B(90,0)KMOK
+LINE              :0407
+
+///INDEX 336
+DATE              :2025/06/06 17:10:15
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 337
+DATE              :2025/06/06 17:10:04
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O24B(90,0)KMOK
+LINE              :0407
+STOP FACTOR       :HOLD
+
+///INDEX 338
+DATE              :2025/06/06 17:10:01
+EVENT             :NEXT
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O24B(90,0)KMOK
+LINE              :0407
+
+///INDEX 339
+DATE              :2025/06/06 17:09:36
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O24B(90,0)KMOK
+LINE              :0414
+STOP FACTOR       :KEY OFF
+
+///INDEX 340
+DATE              :2025/06/06 17:09:35
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O24B(90,0)KMOK
+LINE              :0414
+
+///INDEX 341
+DATE              :2025/06/06 17:09:30
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O24B(90,0)KMOK
+LINE              :0414
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 342
+DATE              :2025/06/06 17:09:26
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O24B(90,0)KMOK
+LINE              :0414
+
+///INDEX 343
+DATE              :2025/06/06 17:09:08
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 344
+DATE              :2025/06/06 17:09:08
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 345
+DATE              :2025/06/06 17:09:08
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 346
+DATE              :2025/06/06 17:09:04
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O24B(90,0)KMOK
+LINE              :0414
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 347
+DATE              :2025/06/06 17:09:01
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O24B(90,0)KMOK
+LINE              :0414
+
+///INDEX 348
+DATE              :2025/06/06 17:08:59
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 349
+DATE              :2025/06/06 17:08:58
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O24B(90,0)KMOK
+LINE              :0414
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 350
+DATE              :2025/06/06 17:08:57
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O24B(90,0)KMOK
+LINE              :0411
+
+///INDEX 351
+DATE              :2025/06/06 17:08:55
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 352
+DATE              :2025/06/06 17:08:55
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 353
+DATE              :2025/06/06 17:08:55
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 354
+DATE              :2025/06/06 17:08:10
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O24B(90,0)KMOK
+LINE              :0411
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 355
+DATE              :2025/06/06 16:50:37
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O8B-O21B(90,0)_MPKMOK
+LINE              :1065
+
+///INDEX 356
+DATE              :2025/06/06 16:50:35
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 357
+DATE              :2025/06/06 16:50:32
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O8B-O21B(90,0)_MPKMOK
+LINE              :1065
+STOP FACTOR       :KEY OFF
+
+///INDEX 358
+DATE              :2025/06/06 16:50:15
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O8B-O21B(90,0)_MPKMOK
+LINE              :1061
+
+///INDEX 359
+DATE              :2025/06/06 16:50:14
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O8B-O21B(90,0)_MPKMOK
+LINE              :1061
+STOP FACTOR       :KEY OFF
+
+///INDEX 360
+DATE              :2025/06/06 16:50:14
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O8B-O21B(90,0)_MPKMOK
+LINE              :1061
+
+///INDEX 361
+DATE              :2025/06/06 16:50:13
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O8B-O21B(90,0)_MPKMOK
+LINE              :1061
+STOP FACTOR       :KEY OFF
+
+///INDEX 362
+DATE              :2025/06/06 16:50:12
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O8B-O21B(90,0)_MPKMOK
+LINE              :1061
+
+///INDEX 363
+DATE              :2025/06/06 16:50:12
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O8B-O21B(90,0)_MPKMOK
+LINE              :1061
+STOP FACTOR       :KEY OFF
+
+///INDEX 364
+DATE              :2025/06/06 16:50:11
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O8B-O21B(90,0)_MPKMOK
+LINE              :1061
+
+///INDEX 365
+DATE              :2025/06/06 16:50:01
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 366
+DATE              :2025/06/06 16:50:01
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 367
+DATE              :2025/06/06 16:50:01
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 368
+DATE              :2025/06/06 16:49:30
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O8B-O21B(90,0)_MPKMOK
+LINE              :1061
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 369
+DATE              :2025/06/06 16:02:29
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O242(-90,180)OKKR
+LINE              :0097
+
+///INDEX 370
+DATE              :2025/06/06 16:02:27
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 371
+DATE              :2025/06/06 16:02:26
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O242(-90,180)OKKR
+LINE              :0097
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 372
+DATE              :2025/06/06 16:02:26
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O242(-90,180)OKKR
+LINE              :0095
+
+///INDEX 373
+DATE              :2025/06/06 16:02:23
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 374
+DATE              :2025/06/06 16:02:23
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 375
+DATE              :2025/06/06 16:02:23
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 376
+DATE              :2025/06/06 15:58:22
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O242(-90,180)OKKR
+LINE              :0095
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 377
+DATE              :2025/06/06 15:54:16
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS1A
+LINE              :0316
+
+///INDEX 378
+DATE              :2025/06/06 15:54:05
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 379
+DATE              :2025/06/06 15:54:03
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS1A
+LINE              :0316
+STOP FACTOR       :HOLD
+DETAIL FACTOR 1   :PP HOLD
+
+///INDEX 380
+DATE              :2025/06/06 15:44:41
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X4
+LINE              :0000
+
+///INDEX 381
+DATE              :2025/06/06 15:44:40
+EVENT             :SELECT JOB
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X4
+
+///INDEX 382
+DATE              :2025/06/06 15:18:49
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 383
+DATE              :2025/06/06 15:07:50
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :MASTER_X4
+LINE              :0206
+STOP FACTOR       :PAUSE COMM
+
+///INDEX 384
+DATE              :2025/06/06 14:47:14
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS7(1)_V2
+LINE              :0246
+
+///INDEX 385
+DATE              :2025/06/06 14:47:12
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 386
+DATE              :2025/06/06 14:47:12
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS7(1)_V2
+LINE              :0246
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 387
+DATE              :2025/06/06 14:47:11
+EVENT             :TEST
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS7(1)_V2
+LINE              :0244
+
+///INDEX 388
+DATE              :2025/06/06 14:47:09
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 389
+DATE              :2025/06/06 14:47:09
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 390
+DATE              :2025/06/06 14:47:09
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 391
+DATE              :2025/06/06 14:33:22
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :KRIS7(1)_V2
+LINE              :0244
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 392
+DATE              :2025/06/06 14:24:33
+EVENT             :LOGIN
+LOGIN NAME        :melika
+
+///INDEX 393
+DATE              :2025/06/06 14:24:23
+EVENT             :LOGOUT
+LOGIN NAME        :melika
+
+///INDEX 394
+DATE              :2025/06/06 14:00:05
+EVENT             :START
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O55A(90,180)KMOK
+LINE              :0401
+
+///INDEX 395
+DATE              :2025/06/06 14:00:03
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 396
+DATE              :2025/06/06 14:00:02
+EVENT             :STOP
+LOGIN NAME        :melika
+TASK              :#00
+JOB NAME          :OK_R2_O55A(90,180)KMOK
+LINE              :0401
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :PP ENABLE SWITCH
+
+///INDEX 397
+DATE              :2025/06/06 13:59:59
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 398
+DATE              :2025/06/06 13:59:59
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 399
+DATE              :2025/06/06 13:59:59
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 400
+DATE              :2025/06/06 13:34:48
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 401
+DATE              :2025/06/06 12:56:55
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 402
+DATE              :2025/06/06 12:56:13
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 403
+DATE              :2025/06/06 12:56:13
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 404
+DATE              :2025/06/06 12:55:46
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 405
+DATE              :2025/06/06 12:45:31
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 406
+DATE              :2025/06/06 11:27:21
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 407
+DATE              :2025/06/06 11:27:18
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 408
+DATE              :2025/06/06 11:27:18
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 409
+DATE              :2025/06/06 11:27:18
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 410
+DATE              :2025/06/06 11:12:52
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 411
+DATE              :2025/06/06 11:12:48
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :melika
+
+///INDEX 412
+DATE              :2025/06/06 11:12:48
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 413
+DATE              :2025/06/06 11:12:48
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 414
+DATE              :2025/06/06 10:59:36
+EVENT             :PLAY MODE
+LOGIN NAME        :melika
+
+///INDEX 415
+DATE              :2025/06/06 10:57:12
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :melika
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 416
+DATE              :2025/06/06 10:57:12
+EVENT             :TEACH MODE
+LOGIN NAME        :melika
+
+///INDEX 417
+DATE              :2025/06/06 05:24:24
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17093
+AFTER EDIT        :17094
+
+///INDEX 418
+DATE              :2025/06/06 05:24:24
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17093
+AFTER EDIT        :17094
+
+///INDEX 419
+DATE              :2025/06/06 05:24:24
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17093
+AFTER EDIT        :17094
+
+///INDEX 420
+DATE              :2025/06/06 05:24:24
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17093
+AFTER EDIT        :17094
+
+///INDEX 421
+DATE              :2025/06/06 05:24:24
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17093
+AFTER EDIT        :17094
+
+///INDEX 422
+DATE              :2025/06/06 05:24:24
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17093
+AFTER EDIT        :17094
+
+///INDEX 423
+DATE              :2025/06/06 05:24:24
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17093
+AFTER EDIT        :17094
+
+///INDEX 424
+DATE              :2025/06/06 05:24:24
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17093
+AFTER EDIT        :17094
+
+///INDEX 425
+DATE              :2025/06/05 05:55:22
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17092
+AFTER EDIT        :17093
+
+///INDEX 426
+DATE              :2025/06/05 05:55:22
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17092
+AFTER EDIT        :17093
+
+///INDEX 427
+DATE              :2025/06/05 05:55:22
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17092
+AFTER EDIT        :17093
+
+///INDEX 428
+DATE              :2025/06/05 05:55:22
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17092
+AFTER EDIT        :17093
+
+///INDEX 429
+DATE              :2025/06/05 05:55:22
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17092
+AFTER EDIT        :17093
+
+///INDEX 430
+DATE              :2025/06/05 05:55:22
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17092
+AFTER EDIT        :17093
+
+///INDEX 431
+DATE              :2025/06/05 05:55:22
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17092
+AFTER EDIT        :17093
+
+///INDEX 432
+DATE              :2025/06/05 05:55:22
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17092
+AFTER EDIT        :17093
+
+///INDEX 433
+DATE              :2025/06/04 05:43:41
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17091
+AFTER EDIT        :17092
+
+///INDEX 434
+DATE              :2025/06/04 05:43:41
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17091
+AFTER EDIT        :17092
+
+///INDEX 435
+DATE              :2025/06/04 05:43:41
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17091
+AFTER EDIT        :17092
+
+///INDEX 436
+DATE              :2025/06/04 05:43:41
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17091
+AFTER EDIT        :17092
+
+///INDEX 437
+DATE              :2025/06/04 05:43:41
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17091
+AFTER EDIT        :17092
+
+///INDEX 438
+DATE              :2025/06/04 05:43:41
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17091
+AFTER EDIT        :17092
+
+///INDEX 439
+DATE              :2025/06/04 05:43:41
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17091
+AFTER EDIT        :17092
+
+///INDEX 440
+DATE              :2025/06/04 05:43:41
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17091
+AFTER EDIT        :17092
+
+///INDEX 441
+DATE              :2025/06/03 05:52:16
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17090
+AFTER EDIT        :17091
+
+///INDEX 442
+DATE              :2025/06/03 05:52:16
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17090
+AFTER EDIT        :17091
+
+///INDEX 443
+DATE              :2025/06/03 05:52:16
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17090
+AFTER EDIT        :17091
+
+///INDEX 444
+DATE              :2025/06/03 05:52:16
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17090
+AFTER EDIT        :17091
+
+///INDEX 445
+DATE              :2025/06/03 05:52:16
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17090
+AFTER EDIT        :17091
+
+///INDEX 446
+DATE              :2025/06/03 05:52:16
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17090
+AFTER EDIT        :17091
+
+///INDEX 447
+DATE              :2025/06/03 05:52:16
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17090
+AFTER EDIT        :17091
+
+///INDEX 448
+DATE              :2025/06/03 05:52:16
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17090
+AFTER EDIT        :17091
+
+///INDEX 449
+DATE              :2025/06/02 05:42:08
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17087
+AFTER EDIT        :17090
+
+///INDEX 450
+DATE              :2025/06/02 05:42:08
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17087
+AFTER EDIT        :17090
+
+///INDEX 451
+DATE              :2025/06/02 05:42:08
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17087
+AFTER EDIT        :17090
+
+///INDEX 452
+DATE              :2025/06/02 05:42:08
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17087
+AFTER EDIT        :17090
+
+///INDEX 453
+DATE              :2025/06/02 05:42:08
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17087
+AFTER EDIT        :17090
+
+///INDEX 454
+DATE              :2025/06/02 05:42:08
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17087
+AFTER EDIT        :17090
+
+///INDEX 455
+DATE              :2025/06/02 05:42:08
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17087
+AFTER EDIT        :17090
+
+///INDEX 456
+DATE              :2025/06/02 05:42:08
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17087
+AFTER EDIT        :17090
+
+///INDEX 457
+DATE              :2025/05/31 05:55:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17086
+AFTER EDIT        :17087
+
+///INDEX 458
+DATE              :2025/05/31 05:55:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17086
+AFTER EDIT        :17087
+
+///INDEX 459
+DATE              :2025/05/31 05:55:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17086
+AFTER EDIT        :17087
+
+///INDEX 460
+DATE              :2025/05/31 05:55:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17086
+AFTER EDIT        :17087
+
+///INDEX 461
+DATE              :2025/05/31 05:55:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17086
+AFTER EDIT        :17087
+
+///INDEX 462
+DATE              :2025/05/31 05:55:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17086
+AFTER EDIT        :17087
+
+///INDEX 463
+DATE              :2025/05/31 05:55:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17086
+AFTER EDIT        :17087
+
+///INDEX 464
+DATE              :2025/05/31 05:55:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17086
+AFTER EDIT        :17087
+
+///INDEX 465
+DATE              :2025/05/30 05:28:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17085
+AFTER EDIT        :17086
+
+///INDEX 466
+DATE              :2025/05/30 05:28:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17085
+AFTER EDIT        :17086
+
+///INDEX 467
+DATE              :2025/05/30 05:28:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17085
+AFTER EDIT        :17086
+
+///INDEX 468
+DATE              :2025/05/30 05:28:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17085
+AFTER EDIT        :17086
+
+///INDEX 469
+DATE              :2025/05/30 05:28:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17085
+AFTER EDIT        :17086
+
+///INDEX 470
+DATE              :2025/05/30 05:28:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17085
+AFTER EDIT        :17086
+
+///INDEX 471
+DATE              :2025/05/30 05:28:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17085
+AFTER EDIT        :17086
+
+///INDEX 472
+DATE              :2025/05/30 05:28:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17085
+AFTER EDIT        :17086
+
+///INDEX 473
+DATE              :2025/05/29 05:53:58
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17084
+AFTER EDIT        :17085
+
+///INDEX 474
+DATE              :2025/05/29 05:53:58
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17084
+AFTER EDIT        :17085
+
+///INDEX 475
+DATE              :2025/05/29 05:53:58
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17084
+AFTER EDIT        :17085
+
+///INDEX 476
+DATE              :2025/05/29 05:53:58
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17084
+AFTER EDIT        :17085
+
+///INDEX 477
+DATE              :2025/05/29 05:53:58
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17084
+AFTER EDIT        :17085
+
+///INDEX 478
+DATE              :2025/05/29 05:53:58
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17084
+AFTER EDIT        :17085
+
+///INDEX 479
+DATE              :2025/05/29 05:53:58
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17084
+AFTER EDIT        :17085
+
+///INDEX 480
+DATE              :2025/05/29 05:53:58
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17084
+AFTER EDIT        :17085
+
+///INDEX 481
+DATE              :2025/05/28 05:24:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17083
+AFTER EDIT        :17084
+
+///INDEX 482
+DATE              :2025/05/28 05:24:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17083
+AFTER EDIT        :17084
+
+///INDEX 483
+DATE              :2025/05/28 05:24:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17083
+AFTER EDIT        :17084
+
+///INDEX 484
+DATE              :2025/05/28 05:24:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17083
+AFTER EDIT        :17084
+
+///INDEX 485
+DATE              :2025/05/28 05:24:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17083
+AFTER EDIT        :17084
+
+///INDEX 486
+DATE              :2025/05/28 05:24:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17083
+AFTER EDIT        :17084
+
+///INDEX 487
+DATE              :2025/05/28 05:24:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17083
+AFTER EDIT        :17084
+
+///INDEX 488
+DATE              :2025/05/28 05:24:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17083
+AFTER EDIT        :17084
+
+///INDEX 489
+DATE              :2025/05/27 05:52:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17082
+AFTER EDIT        :17083
+
+///INDEX 490
+DATE              :2025/05/27 05:52:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17082
+AFTER EDIT        :17083
+
+///INDEX 491
+DATE              :2025/05/27 05:52:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17082
+AFTER EDIT        :17083
+
+///INDEX 492
+DATE              :2025/05/27 05:52:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17082
+AFTER EDIT        :17083
+
+///INDEX 493
+DATE              :2025/05/27 05:52:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17082
+AFTER EDIT        :17083
+
+///INDEX 494
+DATE              :2025/05/27 05:52:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17082
+AFTER EDIT        :17083
+
+///INDEX 495
+DATE              :2025/05/27 05:52:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17082
+AFTER EDIT        :17083
+
+///INDEX 496
+DATE              :2025/05/27 05:52:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17082
+AFTER EDIT        :17083
+
+///INDEX 497
+DATE              :2025/05/26 05:29:21
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17080
+AFTER EDIT        :17082
+
+///INDEX 498
+DATE              :2025/05/26 05:29:21
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17080
+AFTER EDIT        :17082
+
+///INDEX 499
+DATE              :2025/05/26 05:29:21
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17080
+AFTER EDIT        :17082
+
+///INDEX 500
+DATE              :2025/05/26 05:29:21
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17080
+AFTER EDIT        :17082
+
+///INDEX 501
+DATE              :2025/05/26 05:29:21
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17080
+AFTER EDIT        :17082
+
+///INDEX 502
+DATE              :2025/05/26 05:29:21
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17080
+AFTER EDIT        :17082
+
+///INDEX 503
+DATE              :2025/05/26 05:29:21
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17080
+AFTER EDIT        :17082
+
+///INDEX 504
+DATE              :2025/05/26 05:29:21
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17080
+AFTER EDIT        :17082
+
+///INDEX 505
+DATE              :2025/05/24 05:52:46
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17079
+AFTER EDIT        :17080
+
+///INDEX 506
+DATE              :2025/05/24 05:52:46
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17079
+AFTER EDIT        :17080
+
+///INDEX 507
+DATE              :2025/05/24 05:52:46
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17079
+AFTER EDIT        :17080
+
+///INDEX 508
+DATE              :2025/05/24 05:52:46
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17079
+AFTER EDIT        :17080
+
+///INDEX 509
+DATE              :2025/05/24 05:52:46
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17079
+AFTER EDIT        :17080
+
+///INDEX 510
+DATE              :2025/05/24 05:52:46
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17079
+AFTER EDIT        :17080
+
+///INDEX 511
+DATE              :2025/05/24 05:52:46
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17079
+AFTER EDIT        :17080
+
+///INDEX 512
+DATE              :2025/05/24 05:52:46
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17079
+AFTER EDIT        :17080
+
+///INDEX 513
+DATE              :2025/05/23 00:00:02
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17078
+AFTER EDIT        :17079
+
+///INDEX 514
+DATE              :2025/05/23 00:00:02
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17078
+AFTER EDIT        :17079
+
+///INDEX 515
+DATE              :2025/05/23 00:00:02
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17078
+AFTER EDIT        :17079
+
+///INDEX 516
+DATE              :2025/05/23 00:00:02
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17078
+AFTER EDIT        :17079
+
+///INDEX 517
+DATE              :2025/05/23 00:00:02
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17078
+AFTER EDIT        :17079
+
+///INDEX 518
+DATE              :2025/05/23 00:00:02
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17078
+AFTER EDIT        :17079
+
+///INDEX 519
+DATE              :2025/05/23 00:00:02
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17078
+AFTER EDIT        :17079
+
+///INDEX 520
+DATE              :2025/05/23 00:00:02
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17078
+AFTER EDIT        :17079
+
+///INDEX 521
+DATE              :2025/05/22 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17077
+AFTER EDIT        :17078
+
+///INDEX 522
+DATE              :2025/05/22 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17077
+AFTER EDIT        :17078
+
+///INDEX 523
+DATE              :2025/05/22 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17077
+AFTER EDIT        :17078
+
+///INDEX 524
+DATE              :2025/05/22 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17077
+AFTER EDIT        :17078
+
+///INDEX 525
+DATE              :2025/05/22 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17077
+AFTER EDIT        :17078
+
+///INDEX 526
+DATE              :2025/05/22 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17077
+AFTER EDIT        :17078
+
+///INDEX 527
+DATE              :2025/05/22 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17077
+AFTER EDIT        :17078
+
+///INDEX 528
+DATE              :2025/05/22 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17077
+AFTER EDIT        :17078
+
+///INDEX 529
+DATE              :2025/05/21 11:20:33
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :OK_R2_O27-28(-60,-90)OKKR
+LINE              :0374
+DELETED LINE      :'DO POPRAWY 
+
+
+///INDEX 530
+DATE              :2025/05/21 11:20:32
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :OK_R2_O27-28(-60,-90)OKKR
+LINE              :0374
+DELETED LINE      : PAUSE 
+
+
+///INDEX 531
+DATE              :2025/05/21 11:20:17
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :OK_R2_O27-28(-60,-90)OKKR
+LINE              :0394
+AFTER EDIT        : SMOVL V=70  +MOVJ 
+CURR VALUE
+
+///INDEX 532
+DATE              :2025/05/21 11:20:12
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :OK_R2_O27-28(-60,-90)OKKR
+LINE              :0395
+AFTER EDIT        : SMOVL V=70  +MOVJ 
+CURR VALUE
+
+///INDEX 533
+DATE              :2025/05/21 11:18:45
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :OK_R2_O27-28(-60,-90)OKKR
+LINE              :0394
+CURR VALUE
+     R1 :S    -146853
+         L     -72354
+         U    -115059
+         R      -4691
+         B      83956
+         T      12024
+     B1 :1     248473
+         2     825343
+         3    1066145
+     S1 :1    -798155
+         2    -556476
+
+///INDEX 534
+DATE              :2025/05/21 11:17:28
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :OK_R2_O27-28(-60,-90)OKKR
+LINE              :0395
+AFTER EDIT        : SMOVL V=80  +MOVJ 
+CURR VALUE
+
+///INDEX 535
+DATE              :2025/05/21 11:17:23
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :OK_R2_O27-28(-60,-90)OKKR
+LINE              :0394
+AFTER EDIT        : SMOVL V=80  +MOVJ 
+CURR VALUE
+
+///INDEX 536
+DATE              :2025/05/21 11:16:08
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :OK_R2_O27-28(-60,-90)OKKR
+LINE              :0383
+AFTER EDIT        : SMOVL V=70  +MOVJ 
+CURR VALUE
+
+///INDEX 537
+DATE              :2025/05/21 11:16:02
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :OK_R2_O27-28(-60,-90)OKKR
+LINE              :0382
+AFTER EDIT        : SMOVL V=70  +MOVJ 
+CURR VALUE
+
+///INDEX 538
+DATE              :2025/05/21 08:28:23
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :KRIS7(1)_V2
+LINE              :0224
+CURR VALUE
+     R1 :S    -158849
+         L      -1163
+         U      28427
+         R      20872
+         B      74303
+         T     -36038
+     B1 :1     257490
+         2     892976
+         3     975703
+     S1 :1     492424
+         2     556474
+
+///INDEX 539
+DATE              :2025/05/21 08:28:09
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :KRIS7(1)_V2
+LINE              :0226
+CURR VALUE
+     R1 :S    -160122
+         L       4230
+         U      35655
+         R      20941
+         B      73038
+         T     -36714
+     B1 :1     257490
+         2     892976
+         3     975703
+     S1 :1     492424
+         2     556474
+
+///INDEX 540
+DATE              :2025/05/21 08:27:59
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :KRIS7(1)_V2
+LINE              :0227
+CURR VALUE
+     R1 :S    -163959
+         L        368
+         U      36082
+         R      27034
+         B      65787
+         T     -40519
+     B1 :1     257490
+         2     892976
+         3     975703
+     S1 :1     492424
+         2     556474
+
+///INDEX 541
+DATE              :2025/05/21 08:27:13
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :KRIS7(1)_V2
+LINE              :0225
+AFTER EDIT        : SFTON3D P054 
+CURR VALUE
+
+///INDEX 542
+DATE              :2025/05/21 08:27:00
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :KRIS7(1)_V2
+LINE              :0230
+AFTER EDIT        : SFTON3D P053 
+CURR VALUE
+
+///INDEX 543
+DATE              :2025/05/21 08:26:47
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :KRIS7(1)_V2
+LINE              :0230
+AFTER EDIT        : SMOVL V=60  +MOVJ 
+CURR VALUE
+
+///INDEX 544
+DATE              :2025/05/21 08:26:42
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :KRIS7(1)_V2
+LINE              :0230
+AFTER EDIT        : SMOVL V=65  +MOVJ 
+CURR VALUE
+     R1 :S    -154961
+         L      -9591
+         U      28203
+         R      27392
+         B      62566
+         T     -37910
+     B1 :1     257490
+         2     892976
+         3     975703
+     S1 :1     492424
+         2     556474
+
+///INDEX 545
+DATE              :2025/05/21 08:22:22
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :KRIS7(1)_V2
+LINE              :0189
+CURR VALUE
+     R1 :S    -171070
+         L      -1775
+         U      31847
+         R       8236
+         B      49280
+         T       1504
+     B1 :1     257490
+         2     892976
+         3     975703
+     S1 :1     492424
+         2     556474
+
+///INDEX 546
+DATE              :2025/05/21 08:19:50
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :KRIS7(1)_V2
+LINE              :0174
+CURR VALUE
+     R1 :S    -160696
+         L      10369
+         U      42759
+         R      21022
+         B      72036
+         T     -37095
+     B1 :1     257490
+         2     892976
+         3     975703
+     S1 :1     492424
+         2     556474
+
+///INDEX 547
+DATE              :2025/05/21 08:19:00
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :KRIS7(1)_V2
+LINE              :0171
+CURR VALUE
+     R1 :S    -161260
+         L       1005
+         U      30597
+         R      20714
+         B      74674
+         T     -36823
+     B1 :1     257490
+         2     892976
+         3     975703
+     S1 :1     492424
+         2     556474
+
+///INDEX 548
+DATE              :2025/05/21 08:18:44
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :KRIS7(1)_V2
+LINE              :0173
+CURR VALUE
+     R1 :S    -160787
+         L       4402
+         U      36172
+         R      20911
+         B      72981
+         T     -36957
+     B1 :1     257490
+         2     892976
+         3     975703
+     S1 :1     492424
+         2     556474
+
+///INDEX 549
+DATE              :2025/05/21 08:18:26
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :KRIS7(1)_V2
+LINE              :0172
+AFTER EDIT        : SFTON3D P044 
+CURR VALUE
+
+///INDEX 550
+DATE              :2025/05/21 08:18:04
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :KRIS7(1)_V2
+LINE              :0178
+CURR VALUE
+     R1 :S    -152054
+         L        690
+         U      34239
+         R      21579
+         B      70197
+         T     -34375
+     B1 :1     257490
+         2     892976
+         3     975703
+     S1 :1     492424
+         2     556474
+
+///INDEX 551
+DATE              :2025/05/21 08:16:45
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :KRIS7(1)_V2
+LINE              :0177
+AFTER EDIT        : SFTON3D P043 
+CURR VALUE
+
+///INDEX 552
+DATE              :2025/05/21 08:16:02
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :KRIS7(1)_V2
+LINE              :0177
+AFTER EDIT        : SMOVL V=65  +MOVJ 
+CURR VALUE
+
+///INDEX 553
+DATE              :2025/05/21 08:15:54
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :koss
+TASK              :#00
+FILE NAME         :KRIS7(1)_V2
+LINE              :0177
+AFTER EDIT        : SMOVL V=66  +MOVJ 
+CURR VALUE
+     R1 :S    -152040
+         L        760
+         U      34297
+         R      21580
+         B      70194
+         T     -34371
+     B1 :1     257490
+         2     892976
+         3     975703
+     S1 :1     492424
+         2     556474
+
+///INDEX 554
+DATE              :2025/05/21 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17076
+AFTER EDIT        :17077
+
+///INDEX 555
+DATE              :2025/05/21 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17076
+AFTER EDIT        :17077
+
+///INDEX 556
+DATE              :2025/05/21 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17076
+AFTER EDIT        :17077
+
+///INDEX 557
+DATE              :2025/05/21 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17076
+AFTER EDIT        :17077
+
+///INDEX 558
+DATE              :2025/05/21 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17076
+AFTER EDIT        :17077
+
+///INDEX 559
+DATE              :2025/05/21 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17076
+AFTER EDIT        :17077
+
+///INDEX 560
+DATE              :2025/05/21 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17076
+AFTER EDIT        :17077
+
+///INDEX 561
+DATE              :2025/05/21 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17076
+AFTER EDIT        :17077
+
+///INDEX 562
+DATE              :2025/05/20 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17075
+AFTER EDIT        :17076
+
+///INDEX 563
+DATE              :2025/05/20 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17075
+AFTER EDIT        :17076
+
+///INDEX 564
+DATE              :2025/05/20 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17075
+AFTER EDIT        :17076
+
+///INDEX 565
+DATE              :2025/05/20 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17075
+AFTER EDIT        :17076
+
+///INDEX 566
+DATE              :2025/05/20 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17075
+AFTER EDIT        :17076
+
+///INDEX 567
+DATE              :2025/05/20 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17075
+AFTER EDIT        :17076
+
+///INDEX 568
+DATE              :2025/05/20 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17075
+AFTER EDIT        :17076
+
+///INDEX 569
+DATE              :2025/05/20 00:00:01
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :melika
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17075
+AFTER EDIT        :17076
+
+///INDEX 570
+DATE              :2025/05/19 14:56:44
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :melika
+TASK              :#00
+FILE NAME         :X2_103(30,90)_V2
+LINE              :0465
+CURR VALUE
+     R1 :S    -160152
+         L        458
+         U      29336
+         R      20755
+         B      74873
+         T     -36398
+     B1 :1     257490
+         2     879919
+         3    1075172
+     S1 :1     492424
+         2     556474
+
+///INDEX 571
+DATE              :2025/05/19 14:56:36
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :melika
+TASK              :#00
+FILE NAME         :X2_103(30,90)_V2
+LINE              :0467
+CURR VALUE
+     R1 :S    -160259
+         L       4501
+         U      35440
+         R      20903
+         B      73326
+         T     -36711
+     B1 :1     257490
+         2     879919
+         3    1075172
+     S1 :1     492424
+         2     556474
+
+///INDEX 572
+DATE              :2025/05/19 14:56:26
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :melika
+TASK              :#00
+FILE NAME         :X2_103(30,90)_V2
+LINE              :0468
+CURR VALUE
+     R1 :S    -164309
+         L        127
+         U      35487
+         R      27240
+         B      65862
+         T     -40669
+     B1 :1     257490
+         2     879919
+         3    1075172
+     S1 :1     492424
+         2     556474
+
+///INDEX 573
+DATE              :2025/05/19 14:55:15
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :melika
+TASK              :#00
+FILE NAME         :X2_103(30,90)_V2
+LINE              :0466
+AFTER EDIT        : SFTON3D P054 
+CURR VALUE
+
+///INDEX 574
+DATE              :2025/05/19 14:54:43
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :melika
+TASK              :#00
+FILE NAME         :X2_103(30,90)_V2
+LINE              :0471
+AFTER EDIT        : SFTON3D P053 
+CURR VALUE
+
+///INDEX 575
+DATE              :2025/05/19 14:54:29
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :melika
+TASK              :#00
+FILE NAME         :X2_103(30,90)_V2
+LINE              :0471
+AFTER EDIT        : SMOVL V=60  +MOVJ 
+CURR VALUE
+     R1 :S    -154882
+         L      -9787
+         U      27498
+         R      27315
+         B      62838
+         T     -37808
+     B1 :1     257490
+         2     879919
+         3    1075172
+     S1 :1     492424
+         2     556474
+
+///INDEX 576
+DATE              :2025/05/19 14:48:48
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :melika
+TASK              :#00
+FILE NAME         :X2_103(30,90)_V2
+LINE              :0415
+CURR VALUE
+     R1 :S    -160671
+         L      10463
+         U      42330
+         R      20993
+         B      72323
+         T     -37033
+     B1 :1     257490
+         2     879919
+         3    1075172
+     S1 :1     492424
+         2     556474
+
+///INDEX 577
+DATE              :2025/05/19 14:47:30
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :melika
+TASK              :#00
+FILE NAME         :X2_103(30,90)_V2
+LINE              :0414
+CURR VALUE
+     R1 :S    -161648
+         L       5750
+         U      36918
+         R      20819
+         B      73407
+         T     -37185
+     B1 :1     257490
+         2     879919
+         3    1075172
+     S1 :1     492424
+         2     556474
+
+///INDEX 578
+DATE              :2025/05/19 14:46:49
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :melika
+TASK              :#00
+FILE NAME         :X2_103(30,90)_V2
+LINE              :0418
+AFTER EDIT        : SFTON3D P043 
+CURR VALUE
+
+///INDEX 579
+DATE              :2025/05/19 14:45:57
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :melika
+TASK              :#00
+FILE NAME         :X2_103(30,90)_V2
+LINE              :0413
+AFTER EDIT        : SFTON3D P044 
+CURR VALUE
+
+///INDEX 580
+DATE              :2025/05/19 14:44:36
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :melika
+TASK              :#00
+FILE NAME         :X2_103(30,90)_V2
+LINE              :0418
+AFTER EDIT        : SMOVL V=60  +MOVJ 
+CURR VALUE
+
+///INDEX 581
+DATE              :2025/05/19 14:44:29
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :melika
+TASK              :#00
+FILE NAME         :X2_103(30,90)_V2
+LINE              :0418
+AFTER EDIT        : SMOVL V=66  +MOVJ 
+CURR VALUE
+     R1 :S    -151947
+         L        813
+         U      33898
+         R      21550
+         B      70423
+         T     -34294
+     B1 :1     257490
+         2     879919
+         3    1075172
+     S1 :1     492424
+         2     556474
+
+///INDEX 582
+DATE              :2025/05/19 13:35:49
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :orzel
+TASK              :#00
+FILE NAME         :X2_34-37(-90,0)_HARDOX
+LINE              :0713
+CURR VALUE
+     R1 :S     133897
+         L      22488
+         U     -22881
+         R      -2939
+         B      74946
+         T     -54630
+     B1 :1     171115
+         2    1369888
+         3       1879
+     S1 :1     798155
+         2          1
+
+///INDEX 583
+DATE              :2025/05/19 13:34:28
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :orzel
+TASK              :#00
+FILE NAME         :X2_34-37(-90,0)_HARDOX
+LINE              :0713
+CURR VALUE
+     R1 :S     133986
+         L      22510
+         U     -22822
+         R      -2983
+         B      74925
+         T     -54603
+     B1 :1     171115
+         2    1369888
+         3       1879
+     S1 :1     798155
+         2          1
+
+///INDEX 584
+DATE              :2025/05/19 13:34:12
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :orzel
+TASK              :#00
+FILE NAME         :X2_34-37(-90,0)_HARDOX
+LINE              :0712
+CURR VALUE
+     R1 :S     134018
+         L      23073
+         U     -23470
+         R      -2994
+         B      75614
+         T     -54609
+     B1 :1     171115
+         2    1369888
+         3       1879
+     S1 :1     798155
+         2          1
+
+///INDEX 585
+DATE              :2025/05/19 05:51:04
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17073
+AFTER EDIT        :17075
+
+///INDEX 586
+DATE              :2025/05/19 05:51:04
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17073
+AFTER EDIT        :17075
+
+///INDEX 587
+DATE              :2025/05/19 05:51:04
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17073
+AFTER EDIT        :17075
+
+///INDEX 588
+DATE              :2025/05/19 05:51:04
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17073
+AFTER EDIT        :17075
+
+///INDEX 589
+DATE              :2025/05/19 05:51:04
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17073
+AFTER EDIT        :17075
+
+///INDEX 590
+DATE              :2025/05/19 05:51:04
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17073
+AFTER EDIT        :17075
+
+///INDEX 591
+DATE              :2025/05/19 05:51:04
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17073
+AFTER EDIT        :17075
+
+///INDEX 592
+DATE              :2025/05/19 05:51:04
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17073
+AFTER EDIT        :17075
+
+///INDEX 593
+DATE              :2025/05/17 05:55:12
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :17072
+AFTER EDIT        :17073
+
+///INDEX 594
+DATE              :2025/05/17 05:55:12
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :17072
+AFTER EDIT        :17073
+
+///INDEX 595
+DATE              :2025/05/17 05:55:12
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :17072
+AFTER EDIT        :17073
+
+///INDEX 596
+DATE              :2025/05/17 05:55:12
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :17072
+AFTER EDIT        :17073
+
+///INDEX 597
+DATE              :2025/05/17 05:55:12
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :17072
+AFTER EDIT        :17073
+
+///INDEX 598
+DATE              :2025/05/17 05:55:12
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :17072
+AFTER EDIT        :17073
+
+///INDEX 599
+DATE              :2025/05/17 05:55:12
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :17072
+AFTER EDIT        :17073
+
+///INDEX 600
+DATE              :2025/05/17 05:55:12
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :17072
+AFTER EDIT        :17073
+
+

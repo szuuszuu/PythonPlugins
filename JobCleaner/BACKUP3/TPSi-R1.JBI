@@ -1,0 +1,40 @@
+/JOB
+//NAME TPSi-R1
+//POS
+///NPOS 0,0,0,0,0,0
+//INST
+///DATE 2024/04/29 09:40
+///ATTR SC,RW,MC
+///GROUP1 RB1,BS1
+///LVARS 2,3,0,0,0,0,0,0
+NOP
+'   Version Fronius TPSi BUS
+'      Job - Schweissen
+'--------------------------------
+'      Mode Bit Job Schweissen
+'--------------------------------
+DOUT OT#(35) OFF
+DOUT OT#(36) ON
+DOUT OT#(37) OFF
+DOUT OT#(38) OFF
+DOUT OT#(39) OFF
+'--------------------------------
+'      JOB Nr. eingeben
+'--------------------------------
+GETARG LI000 IARG#(1)
+SETREG MREG#(183) LI000
+'--------------------------------
+'      Fehlerauswertung
+'--------------------------------
+*Retry
+JUMP *Weiter IF IN#(34)=ON
+'Reset der SQ wenn nicht bereit
+INC LB000
+PULSE OT#(44) T=0.30
+WAIT OT#(44)=OFF
+JUMP *Weiter IF IN#(34)=ON
+SETUALM 8000 "Stromquelle Nicht Bereit !" 0
+JUMP *Retry IF LB000>=1
+*Weiter
+SET LB000 0
+END

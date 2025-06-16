@@ -1,0 +1,65 @@
+/JOB
+//NAME LTSFT
+//POS
+///NPOS 0,0,0,0,0,0
+//INST
+///DATE 2019/11/18 18:16
+///ATTR SC,RW,MC
+///GROUP1 RB1,BS1
+///LVARS 5,5,7,5,0,9,9,0
+NOP
+'**************************
+'**   SHIFT INSTRUCTION  **
+'**   by LT seach rslt.  **
+'**      MACRO JOB       **
+'**   ROBOT WITH BASE    **
+'**   [without posture]  **
+'**for Std. Laser-Tracker**
+'**   UPDATE:2019,11,15  **
+'**************************
+'=== initialize ===
+SFTOF
+'--- sft. rslt. -----------
+GETARG LI003 IARG#(4)
+SET B[LI003] 0
+'--- LT mode --------------
+GETARG LB000 IARG#(1)
+'--- LT mode by DIN#(*)----
+GETARG LI002 IARG#(7)
+' 
+JUMP *skp-sft IF LB000<>1
+JUMP *skp-sft IF IN#(LI002)=ON
+' 
+'--- detect pos -----------
+GETS LPX000 $PX000
+SET LP001 LP000
+SET LBP001 LBP000
+CNVRT LPX001 LPX001 BF
+GETARG LP001 IARG#(2)
+'--- ST std. pos(ORG) -----
+GETARG LP002 IARG#(3)
+SET LBP002 LBP000
+CNVRT LPX002 LPX002 BF
+SUB LP001 LP002
+SUB LBP001 LBP002
+SETE LP001 (4) 0
+SETE LP001 (5) 0
+SETE LP001 (6) 0
+'--- check shift value ----
+GETE LD001 LP001 (1)
+GETE LD002 LP001 (2)
+GETE LD003 LP001 (3)
+SET LR000  EXPRESS LD001 * LD001 / 1000000
+SET LR000  EXPRESS LR000 + LD002 * LD002 / 1000000
+SET LR000  EXPRESS LR000 + LD003 * LD003 / 1000000
+SQRT LR000 LR000
+GETARG LR001 IARG#(5)
+JUMP *ng IF LR000>LR001
+'--------------------------
+GETARG LI004 IARG#(6)
+SET P[LI004] LP001
+SFTON LP001
+*skp-sft
+SET B[LI003] 1
+*ng
+END

@@ -1,0 +1,25 @@
+/JOB
+//NAME LTCHGJS1
+//POS
+///NPOS 0,0,0,0,0,0
+//INST
+///DATE 2019/11/22 14:43
+///ATTR SC,RW,MC
+///GROUP1 RB1,BS1
+///GROUP2 ST1
+///LVARS 1,0,0,0,0,0,0,0
+NOP
+'**************************
+'**   Change Joint Nr.   **
+'**      MACRO JOB       **
+'**      [R1 + S1]       **
+'**for Std. Laser-Tracker**
+'**   UPDATE:2019,11,21  **
+'**   ROBOT WITH BASE    **
+'**************************
+'=== initialize ===
+'--- LT Joint Nr.# --------
+GETARG LB000 IARG#(1)
+' 
+SKILLSND ATTR=3 "LTRACKCH JF:0"
+END
