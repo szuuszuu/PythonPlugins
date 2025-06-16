@@ -27,10 +27,10 @@
 
 your_project/
 ├── JobCleaner/
-│ └── JOBS_FOLDER/
-│ ├── MAIN.JBI
-│ ├── SUB1.JBI
-│ └── unused_job.JBI
+│   └── JOBS_FOLDER/
+│       ├── MAIN.JBI
+│       ├── SUB1.JBI
+│       └── unused_job.JBI
 ├── job_cleaner.py
 
 ---
