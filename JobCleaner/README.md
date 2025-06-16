@@ -14,6 +14,7 @@
 > This is the default job folder used by the program.
 
 ---
+
 ## 📌 What It Does
 
 - ✅ Starts from a specified job file (e.g., `MAIN.JBI`)
@@ -23,7 +24,17 @@
 
 ---
 
-<pre> ## 📁 Folder Structure (Expected) ``` your_project/ ├── JobCleaner/ │ └── JOBS_FOLDER/ │ ├── MAIN.JBI │ ├── SUB1.JBI │ └── unused_job.JBI ├── job_cleaner.py ``` </pre>
+## 📁 Folder Structure (Expected)
+
+your_project/
+├── JobCleaner/
+│ └── JOBS_FOLDER/
+│ ├── MAIN.JBI
+│ ├── SUB1.JBI
+│ └── unused_job.JBI
+├── job_cleaner.py
+
+---
 
 ## ▶️ How to Use
 
