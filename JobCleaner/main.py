@@ -77,7 +77,7 @@ def main():
         print("[ERROR] No job name provided.")
         return
 
-    jobs_folder = "BACKUP1"  # Fixed input folder
+    jobs_folder = "JOBS_FOLDER"  # Fixed input folder
     job_folder_path = os.path.join("JobCleaner", jobs_folder)
     job_file_path = os.path.join(job_folder_path, job_name + ".JBI")
 
