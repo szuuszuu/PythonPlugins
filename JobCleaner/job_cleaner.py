@@ -15,8 +15,9 @@ def parse_job_file(job_name, base_folder, visited=None):
 
     visited.add(job_name)
 
-    # Construct the full path to the job file
-    job_path = os.path.join("JobCleaner", base_folder, job_name + ".JBI")
+    # Build the full absolute path to the job file
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    job_path = os.path.join(base_dir, base_folder, job_name + ".JBI")
     job_tree = {}
 
     try:
@@ -72,14 +73,22 @@ def main():
     - Print it nicely
     - Delete unused .JBI files from the folder
     """
+    print("Current working directory:", os.getcwd())
+    
     job_name = input("Please enter the starting JOB name: ").strip()
     if not job_name:
         print("[ERROR] No job name provided.")
         return
 
-    jobs_folder = "JOBS_FOLDER"  # Fixed input folder
-    job_folder_path = os.path.join("JobCleaner", jobs_folder)
-    job_file_path = os.path.join(job_folder_path, job_name + ".JBI")
+    # Get the absolute directory path of the current script
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+
+    # Fixed folder name for jobs
+    jobs_folder = "JOBS_FOLDER"
+
+    # Build the full absolute path to the job file
+    job_folder_path = os.path.join(base_dir, jobs_folder)
+    job_file_path = os.path.join(base_dir, jobs_folder, job_name + ".JBI")
 
     # Safety check: starting job must exist
     if not os.path.exists(job_file_path):
