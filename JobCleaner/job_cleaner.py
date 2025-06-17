@@ -21,7 +21,7 @@ def parse_job_file(job_name, base_folder, visited=None):
     job_tree = {}
 
     try:
-        with open(job_path, 'r') as file:
+        with open(job_path, 'r', encoding="utf-8", errors="replace") as file:
             lines = file.readlines()
 
         for line in lines:
