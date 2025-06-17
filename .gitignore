@@ -1,9 +1,3 @@
-BACK/
-BACKUP1/
-BACKUP2/
-BACKUP3/
-BACKUP4/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
