@@ -8,14 +8,12 @@ def parse_job_file(job_name, base_folder, visited=None):
     """
     if visited is None:
         visited = set()
-    
-    # Avoid circular job calls
+
     if job_name in visited:
         return {}
 
     visited.add(job_name)
 
-    # Build the full absolute path to the job file
     base_dir = os.path.dirname(os.path.abspath(__file__))
     job_path = os.path.join(base_dir, base_folder, job_name + ".JBI")
     job_tree = {}
@@ -27,13 +25,19 @@ def parse_job_file(job_name, base_folder, visited=None):
         for line in lines:
             line = line.strip()
             if line.startswith("CALL JOB:"):
-                # Extract the called job name after "CALL JOB:"
-                called_job = line.split("CALL JOB:")[-1].strip()
-                # Recursively parse the called job
+                called_job_full = line[len("CALL JOB:"):].strip()
+                # Cut at first space if present
+                if " " in called_job_full:
+                    called_job = called_job_full.split(" ")[0]
+                else:
+                    called_job = called_job_full
+
                 job_tree[called_job] = parse_job_file(called_job, base_folder, visited)
 
     except FileNotFoundError:
         print(f"[ERROR] File '{job_name}.JBI' not found in folder: {base_folder}")
+    except OSError as e:
+        print(f"[ERROR] Failed to open file '{job_path}': {e}")
 
     return job_tree
 
